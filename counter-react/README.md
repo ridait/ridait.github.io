@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+[Counter App Live Demo](https://ridait.github.io/counter-react/demo/)
+
 ## Available Scripts
 
 In the project directory, you can run:
