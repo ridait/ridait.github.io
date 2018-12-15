@@ -2,7 +2,7 @@
   "name": "counter-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ridait.github.io/counter-react",
+  "homepage": "https://ridait.github.io/counter-react/demo",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "gh-pages": "^2.0.1",
